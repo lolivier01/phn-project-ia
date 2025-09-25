@@ -1,0 +1,338 @@
+blind_id,VISIT,r116_age,NUMHSEHLD,NUMADULTS,PARENT1,PARENT2,OTHADLTS,MOMHOUSE,PRNT1EDU,DADHOUSE,PRNT2EDU,PRNT1EMPLYMT,PRNT1WKTYP,PRNT1TITLE,PRNT1OSCRE,PRNT2EMPLYMT,PRNT2WKTYP,PRNT2TITLE,PRNT2OSCRE,hhscore
+184,4,424,3,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,"care of elderly - washing, feeding, etc.",personal support worker,3,1,makes wood parts for doors and windows,machine operator,3,28.5
+508,4,451,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,owns cable business,manager,8,58
+39,4,436,6,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,assembling auto parts,assembler,3,1,drives/delivery,trucker,3,33
+74,4,413,4,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,own own business,business owner,7,1,owns own business,business owner,7,50
+778,4,454,3,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,Public relations/Fundraising,Director,8,1,Community mental health worker,community mental health worker,6,54.5
+772,4,429,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,waitress,waitress,2,1,construction,construction worker,3,27.5
+700,4,420,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,casino,casino,5,1,casino,casino,5,43
+375,4,456,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,nursing,RN (registered nurse),8,1,physical therapist,physical therapist,8,59.5
+292,4,427,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,speech pathologist - therapist,speech pathologist,8,1,guidance counselor,guidance counselor,8,61
+818,4,438,4,2,Mother,Father,None,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,Investments,Risk Analyst,9,63
+78,4,401,6,4,mother,father,"maternal grandmother, maternal step-grandfather",1:Yes,7:Post graduate degree,1:Yes,1:Elementary school,1,elementary school teacher,teacher,7,1,manual labor for a cardboard company,laborer,3,56
+83,4,436,5,3,MOTHER,,GRANDFATHER AND GRANDMOTHER,1:Yes,5:Partial college or trade school,2:No,,1,WAITRESSING,WAITRESS,2,,,,,25
+282,4,401,5,3,MOTHER,FATHER,PATERNAL GRANDMOTHER,1:Yes,3:Partial high school,1:Yes,4:Graduated high school,1,BARTENDING (PART-TIME),BARTENDER,2,1,CONSTRUCTION,CIVIL ENGINEER,4,25.5
+702,4,425,3,2,MOTHER,FATHER,NONE,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,2,,,0,1,WORKS FOR SOUTH KOREAN GOVERNMENT,MIDDLE OFFICER,9,66
+54,4,431,6,2,mother,father,None,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,2,,,0,1,driver for food service company,driver (truck),3,27
+416,4,419,3,2,mother,father,None,1:Yes,2:Junior high school,1:Yes,5:Partial college or trade school,2,,,0,1,welder,welder (ironworker),4,35
+92,4,400,4,2,mother,father,NONE,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,2,,,0,1,computer programmer,senior consultant,8,55
+792,4,447,7,2,Mother,Father,None,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,2,,,0,1,professor,professor,9,66
+87,4,423,5,4,Mother,Father,Maternal grandmother + grandfather,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,education,Academic coach,7,1,Computer programmer,Application programmer,8,57
+624,4,406,4,2,Mother,Father,None,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Accounting,Accountant,8,1,Labor,Laborer (State),6,51.5
+113,4,386,3,2,Mother,Father,No,1:Yes,7:Post graduate degree,1:Yes,5:Partial college or trade school,1,Teacher,High school teacher,8,1,Computer developer,Systems archetect,8,58
+619,4,397,5,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,administration for fence building company,administrater,5,1,owner of fence building company,small business owner,6,42.5
+598,4,431,4,2,Mother,Father,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,specialed teacher,speical ed teacher,7,1,contract negotiator,contract negotiator,7,54.5
+344,4,401,3,2,mother,father,None,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,teacher,reading,7,1,security,security guard,3,46
+72,4,450,3,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,APPLICATION ARCHITEICT SOFTWARE DEVELOPMENT,SAME,6,48
+589,4,421,4,2,MOTHER,FATHER,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,1,INTERIOR DESIGN,OWNER,8,1,SELLS MEDICAL SOFTWARE,SOUTH EAST SALES MANAGER,8,56.5
+801,4,400,4,2,mom,dad,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,air force,information manager,6,42
+206,4,432,6,2,MOM,DAD,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,ATTORNEY,ATTORNEY,9,1,VETERINARIAN,VETERINARIAN,9,66
+286,4,435,3,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,MARKETING AND SALES,SALESPERSON,6,1,FREELANCE DESIGNER,FREELANCE DESIGNER,7,49
+5,4,422,3,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,"CONSTRUCTION WORKER, LANDSCAPING, PAINTING","CONSTRUCTION WORKER, LANDSCAPER",3,33
+366,4,447,3,2,MOTHER,FATHER,NONE,1:Yes,5:Partial college or trade school,1:Yes,7:Post graduate degree,1,TEACHES HORSEBACK RIDING,RIDING INSTRUCTOR,7,1,VETERINARIAN,VETERINARIAN,9,58
+879,4,424,11,2,MOTHER,FATHER,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,SUPERMARKET,"MEAT/PULTRY, BUTCHER",4,35
+488,4,437,5,2,BIO MOM,BIO DAD,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,2,,,0,1,SUPERVISOR IT,SUPERVISOR IT,8,61
+628,4,447,3,2,BIO MOM,BIO DAD,NONE,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,2,,,0,1,WORKS FOR PRINTING COMPANY,MANAGER,7,47
+56,4,398,4,2,MOTHER,FATHER,NONE,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,WORKS IN PET STORE,MANAGER,6,1,TEMPORARY DISABILITY,N/A,1,42
+365,4,448,3,2,MOTHER,FATHER,NONE,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,1,NAIL TECHNICIAN,NAIL TECHNICIAN,3,1,MORTGAGE LENDER,MORTGAGE LENDER,6,39
+141,4,432,5,2,FOSTERCARE  MOTHER,FOSTERCARE MOM'S DAUGHTER,NONE,2:No,5:Partial college or trade school,2:No,6:College graduate,2,,,0,1,CONSTRUCTION,CONSTRUCTION WORKER,4,
+707,4,430,3,2,MOM,DAD,NO,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,PT TEACHER 8TH GRADE MATH,TEACHER,7,1,ORGANIZES TECHINCAL TEAM,MANAGER,7,56
+646,4,400,3,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,2,,,0,1,SALES,SALES ASSOCIATE,5,40
+4,4,415,3,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,E-COMMERCE (INTERNET BUSINESS),E-COMMERCE ASSISTANT,8,58
+623,4,471,3,2,mother,father,None.,1:Yes,7:Post graduate degree,1:Yes,5:Partial college or trade school,1,teacher - 8th grade,teacher,8,1,Information technology,Network administrator,8,58
+318,4,413,5,2,mother,father,None.,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,Real Estate,VP of Sales,7,53
+62,4,406,6,4,mother,legal guardian,"aunt, grandmother",1:Yes,6:College graduate,1:Yes,6:College graduate,1,research,researcher,6,1,trainer,wellness trainer,6,48
+2,4,437,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,accountant,accountant,8,1,business owner- design,business owner,6,54.5
+409,4,404,6,3,mother,father,au pair,1:Yes,6:College graduate,1:Yes,6:College graduate,1,sales,sales manager,6,1,sales,sales representative,6,48
+634,4,425,3,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,1,hair dressing,hair dresser,3,1,salesman of windows,salesman,5,36.5
+154,4,468,9,3,mom,dad,Great grandmom,1:Yes,6:College graduate,1:Yes,6:College graduate,1,accountant,accountants,8,1,accountant,accountants,8,58
+560,4,494,5,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,2,,,0,1,teaches school physical education,teacher,7,56
+541,4,402,5,2,mom,dad,none,1:Yes,3:Partial high school,1:Yes,4:Graduated high school,2,,,0,1,retail/sales,manager,5,37
+218,4,1130,5,4,mother,father,grandfather and grandmother,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,2,,,0,12
+836,4,449,7,5,mother,father,"aunt, Grandfather & uncle",1:Yes,1:Elementary school,1:Yes,1:Elementary school,2,,,0,2,,,0,3
+148,4,532,3,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,financial analysis,financial analyst,9,1,entertainment production,music producer,8,62
+27,4,416,6,4,mother,father,uncle and grandmother,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,office work,office clerk,4,35
+678,4,416,5,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,goes to college,student,1,20
+280,4,480,3,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,works at CVS,shift supervisor,6,1,works at cablevision,cablevision technician,6,46.5
+356,4,435,5,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,sales,manager,6,48
+608,4,500,3,2,mother,father,na,1:Yes,3:Partial high school,1:Yes,3:Partial high school,2,,,0,1,supervisor in supermarket,supervisor,3,24
+652,4,477,6,3,Mother,father,grandfather,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,computer technical support,Technical support,6,45
+253,4,491,6,5,mother,father,"grandmother, grandfather, aunt",1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,junior accountant,junior accountant,8,1,machinist/factory,machinist,4,58
+446,4,402,4,3,mother,father,aunt,1:Yes,1:Elementary school,1:Yes,3:Partial high school,2,,,0,1,dishwasher in restaurant,dishwasher,1,14
+125,4,508,4,2,Mother,Father,No other adults.  Two children.,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,CEO of Exquisite Catering Company,President,8,55
+565,4,472,4,2,Mom,Dad,None other.,1:Yes,6:College graduate,1:Yes,6:College graduate,1,Accountant,,8,1,Software Developer,Computer Programmer,8,58
+661,4,437,3,2,MOTHER,FATHER,,1:Yes,4:Graduated high school,1:Yes,3:Partial high school,1,PHARMACY TECH,PHARMACY TECH,6,1,PHARMACY STOCK,MAINTAIN STOCK MERCHANDISE,2,42
+358,4,453,10,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,6:College graduate,2,,,0,1,Warehouse manager,manager,7,53
+849,4,551,3,2,mother,father,,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,Congregation- office work,Secretary,6,1,teacher,teacher,7,44.5
+275,4,409,6,3,mom,dad,au pair,1:Yes,5:Partial college or trade school,1:Yes,7:Post graduate degree,1,corporate planner,corporate planner,7,1,VP Finance,Vice President of Finance,9,58
+476,4,399,3,1,Mother,,None,1:Yes,2:Junior high school,2:No,,1,stay at home mom,Welfare recipient,1,,,,,11
+91,4,504,6,1,mother,,There are no other adults living in the home - just the mother.,1:Yes,3:Partial high school,2:No,,1,unemployed,mom,1,,on public assistance,,,14
+843,4,446,5,2,Mother,father,none,1:Yes,6:College graduate,1:Yes,4:Graduated high school,2,,,0,1,videographer,Videographer,7,47
+610,4,455,4,2,Mother,Father,No other adults,1:Yes,4:Graduated high school,1:Yes,6:College graduate,2,,,0,1,Currently assistant manager. Was an electrician.,Assistant manager,6,48
+829,4,449,4,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,2:Junior high school,2,,,0,2,,,0,9
+168,4,480,3,2,mother,father,,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,1,Restaurant business,Director of operations,8,1,Team building and coaching,Business owner,8,56.5
+61,4,589,5,2,MOM,DAD,NONE,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,CREDIT CARD PROCESSING,PROJECT MANAGER,7,1,SANITATION,OFFICE MANAGER,7,48.5
+176,4,477,4,2,MOM,DAD,,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,ITS,Telecommunications,6,45
+761,4,448,3,2,MOM,DAD,No other adults in household,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,MANAGEMENT,Warehouse Manager,7,47
+708,4,441,7,4,MOTHER,FATHER,GRANDMOTHER AND ADULT SISTER,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,NURSE,ORTHOPAEDIC RN,8,1,TRUCK DRIVER,TRANSPORTATION SPECIALIST,3,58
+216,4,438,5,2,MOM,,GRANDMOTHER,1:Yes,7:Post graduate degree,2:No,,2,,,0,,,,,21
+514,4,421,3,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,City Firefighter,Firefighter,4,38
+314,4,421,3,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,Insurance,Secretary,6,48
+58,4,454,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,2,,,0,1,military,counter intelligence,8,58
+6,4,405,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,2,,,0,1,information technology,manager of IT,7,50
+789,4,477,5,2,mother,father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,route salesman for *** Distributors,No title,6,45
+142,4,403,5,4,mother,father,paternal grandparents,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,catering,catering transportation supervisor,5,40
+343,4,457,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,fundraiser for united way. (previously teacher),individual giving and leadership manager,7,1,QA and risk management for OMHSAS (state)/instructor for ITT tech.,QA and risk management/instructor,8,57
+463,4,399,4,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,6:College graduate,2,,,0,1,construction management,manager of *** construction co - company owner,8,58
+17,4,450,4,3,mother,grandmother,grandmother's roommate,1:Yes,3:Partial high school,2:No,4:Graduated high school,1,stay at home mom,stay at home mom,1,1,disabled,disabled,1,14
+656,4,432,3,2,Mother,Father,None,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,software engineer,supervisor of software engineering and development,8,58
+526,4,410,4,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,1,traffic manager and fundraising for nonprofit,traffic manager,7,1,traffic manager and movie (director of photogerapher),traffic manager,7,51.5
+308,4,404,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,contracts and budget administration,contracts and budget administrator,8,1,defense contractor,SR business analyst,8,59.5
+112,4,407,11,2,adoptive mother,adoptive father,none,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,school bus driver,school bus driver,3,2,,,0,30
+323,4,451,5,3,mother,father,uncle,1:Yes,6:College graduate,1:Yes,4:Graduated high school,2,,,0,1,athlete,professional boxer,7,47
+258,4,414,7,4,mother,Great GM,"GM, GF, aunt, uncle",1:Yes,5:Partial college or trade school,2:No,7:Post graduate degree,2,,,0,2,,,0,15
+638,4,478,6,4,mother,father,maternal grandparents,1:Yes,7:Post graduate degree,1:Yes,4:Graduated high school,1,"child therapy, anger management",school based counselor,7,1,vector security,security technician,4,56
+621,4,416,5,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,business office manager,business manager,6,1,Family Nurse Practitioner,NP-Peds,8,54.5
+298,4,397,9,4,mother,father,"MGM, MGF",1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,property management-self employed,property manager,7,1,property management-self employed,property manager,7,50
+146,4,514,6,2,mother,none,maternal GM,1:Yes,2:Junior high school,2:No,,1,stay at home mom,stay at home mom,1,,,,,11
+636,4,433,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,pediatrician,hospitalist,9,1,pediatrician,general pediatrician,9,66
+690,4,505,3,2,Mother,Father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,law enforcement,crime lab specialist/forensic technicion,6,1,law enforcement,"crime investigator, detective",8,53
+910,4,446,4,1,mother,,none,1:Yes,3:Partial high school,2:No,,1,unemployed/public assistance,unemployed/public assistance,1,,,,,14
+161,4,483,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,public health-communicable disease,disease intervention specialist,7,1,teacher,5-8 grade health & physed,7,54.5
+278,4,432,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,internal medician physician,MD,9,1,human resources,HR management,8,63.5
+234,4,443,4,2,mother,father,none,1:Yes,3:Partial high school,1:Yes,4:Graduated high school,2,,,0,1,skilled carpenter - self employed,carpenter,2,22
+626,4,444,4,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,GIS analyst (makes maps for the military),GIS analyst,8,55
+210,4,479,4,3,mom,dad,paternal grandpa,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,stay at home mom/student,receives SSI,1,1,landscaping/handyman,landscaping/handyman,2,19.5
+411,4,404,5,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,2,,,0,1,pharmacist,clinical pharmacist,8,61
+196,4,450,5,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,hairstylist,hairstylist,3,1,underground pipe construction,foreman,6,37.5
+369,4,443,3,2,Mom,dad,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,acturial consultant,acturial consultant,8,1,manager of retail store,manager,6,53
+788,4,407,5,4,mother,N/A,"maternal GM maternal GF, maternal uncle",1:Yes,4:Graduated high school,2:No,,1,stay at home mom,stay at home  mom,1,,,,,17
+166,4,414,2,1,mom,n/a,none,1:Yes,4:Graduated high school,2:No,,1,unemployed at this time,unemployed,1,,,,,17
+712,4,590,6,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,freelance video editing,freelancer,4,38
+378,4,560,5,4,mom,dad,aunt and grandma,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,mechanic tractor trailers,mechanic,4,32
+831,4,480,3,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,7:Post graduate degree,1,hairdresser,hairdresser,3,1,consultant - internet marketing,project manager,8,61
+812,4,527,5,2,mom,none,a roommate older than 18
+,1:Yes,5:Partial college or trade school,2:No,,2,,,0,,unknown,unknown,,15
+362,4,411,5,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,Firefighter/paramedic,firefighter/paramedic,7,50
+327,4,397,3,2,mother,father,n/a,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,2,,,0,18
+107,4,434,4,3,mom,,"grandpa, grandma",1:Yes,4:Graduated high school,2:No,,2,,,0,,unknown if father is working,unknown if father is working,,12
+822,4,448,4,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,pilot for privatw jets,pilot,8,58
+805,4,454,4,2,MOTHER,NON PATERNAL FATHER,none,1:Yes,4:Graduated high school,2:No,3:Partial high school,1,UNEMPLOYED ON PUBLIC ASSISTANCE,HOMEMAKER,1,1,IN SCHOOL ON PUBLIC ASSISTANCE,STUDENT,1,17
+373,4,412,4,2,legal guardian,legal guardian's husband,no other parent,2:No,,2:No,,,,,,,,,,
+188,4,433,5,2,mom,dad,none,1:Yes,4:Graduated high school,1:Yes,3:Partial high school,2,,,0,1,lineman-powerlines,electrician,4,29
+561,4,401,3,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,homemaker-unemployed,unemployed,1,1,unemployed,unemployed,1,17
+247,4,468,4,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,receptionist part time,receptionist,5,1,landscaping for city,landscaper,4,36
+885,4,404,2,1,mom,none,none,1:Yes,5:Partial college or trade school,2:No,,1,supervisor for insurance company,supervisor,7,,,,,50
+487,4,438,3,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,insurance,manager,7,53
+393,4,,4,2,mom,fiance,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,truck driver,truck driver for beverage company,3,27
+919,4,423,5,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,day care provider,day care provide,3,1,us navy,first class petty officer,6,37.5
+839,4,471,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,MRI tech,MRI tech,6,1,Shipment management,Shipment management,7,50.5
+302,4,555,3,2,mother,father,n/a,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,2,,,0,1,officer in air force,Engineer,9,63
+458,4,415,3,2,mother,father,no other people in home,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,Manager,Sales Manager,6,45
+364,4,432,5,2,mother,father,no other adults in the house,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,Doctor,Eye Doctor,9,1,Engineering,Electrical Engineer,9,66
+331,4,425,4,3,Mother,,grandmother and uncle (mother's brother),1:Yes,5:Partial college or trade school,2:No,,1,stay at homemom,Receives assistance,1,,,,,20
+445,4,494,5,2,Mother,Father,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,"Supervisor of Off shore rig, coiled tubing",Supervisor,6,48
+730,4,441,3,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,child care,Pre-K teacher,3,1,shipping/receiving,forklift operator,3,27
+293,4,389,5,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,writer,Health feature writer,8,1,nurse,Home Health Nurse,8,58
+187,4,401,3,2,Mother,,grandmother,1:Yes,4:Graduated high school,2:No,,2,,,0,,,,,12
+830,4,425,4,2,Mother,Father,none,1:Yes,4:Graduated high school,1:Yes,3:Partial high school,1,Receiving public assistance,Housewife,1,1,Gas station,Gas attendant,1,15.5
+658,4,484,5,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,Truck driving,Truck driver,3,27
+51,4,447,5,3,mother,grandma,great-grandma,1:Yes,5:Partial college or trade school,2:No,,1,unemployed,unemployed,1,,,,,20
+907,4,431,6,4,Mother,Father,Grandma and Grandpa,1:Yes,3:Partial high school,1:Yes,3:Partial high school,2,,,0,2,,,0,9
+859,4,417,4,2,mother,Father,None,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,paint house,painter,3,27
+204,4,405,2,2,Mother,Father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,Pre-clinical research,Technician,6,2,,,0,45
+848,4,428,4,2,Mother,Father,None,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Nursing,Direct of nursing,8,1,computer engineer,engineer,8,56.5
+50,4,460,4,2,grandma,Grandpa,None,2:No,4:Graduated high school,2:No,4:Graduated high school,2,,,0,1,Design and build swimming pools,Pool   designer,6,
+127,4,429,3,2,mother,father,None,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,Organ procurement,technician,6,1,Cooking,Chef,4,38.5
+837,4,421,4,2,mother,father,None,1:Yes,1:Elementary school,1:Yes,1:Elementary school,2,,,0,1,construction,painter,3,18
+197,4,399,3,2,Mother,Father,None,1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,Teaching in elementary school,Teacher,8,1,Restaurant manager,Manager,7,52.5
+414,4,422,3,2,Mother,father,None,1:Yes,3:Partial high school,1:Yes,3:Partial high school,2,,,0,2,,,0,9
+693,4,421,4,3,mother,none,"Grandfather, grandmother",1:Yes,4:Graduated high school,2:No,,2,,,0,,,,,12
+655,4,427,4,2,Mother,Father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,Food Service,Manager,7,50
+405,4,403,3,2,Mother,Father,None,1:Yes,4:Graduated high school,1:Yes,3:Partial high school,1,Packaging items for shipping,Employee in Packing Department,3,1,receiving department @ warehouse,Part of Receiving crew,3,25.5
+150,4,423,3,1,mother,,No other adults in the home,1:Yes,5:Partial college or trade school,2:No,,1,Tutor,Computer lab assistant,5,,,,,40
+605,4,409,5,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,1,nursing assistant,CNA,3,1,consultant,intern consultant,6,36
+891,4,447,4,2,mother,father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,Tele-communicator for 911,Communicator,6,45
+845,4,1,3,2,mother,dad,None,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,2,,,0,12
+603,4,438,5,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,,,,,1,sports retail,manager,6,45
+823,4,403,5,2,mother,father,none,1:Yes,3:Partial high school,1:Yes,3:Partial high school,,,,,1,carpenter,no title,4,29
+403,4,439,6,2,mother,father,None,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,"military-chemical engineering, teaches on base",Officer - Lt.,9,63
+666,4,432,6,2,mother,father,None,1:Yes,1:Elementary school,1:Yes,1:Elementary school,2,,,0,1,construction/carpentry,consrcuction/carpenter,4,23
+483,4,416,6,3,Mother,Father,Grandmother,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,Mechanic,Mechanic,4,35
+69,4,543,4,2,mother,father,no other adults live in the household,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,self-employed - embroidery,self employed,6,1,pharmacy,pharmacist,8,54.5
+203,4,404,4,2,mother,father,no other adults live in the house,1:Yes,3:Partial high school,1:Yes,3:Partial high school,1,homemaker,homemaker,1,1,painter/ park maintenance,unknown,2,16.5
+466,4,425,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,counselor,vocational rehabilitation counselor,8,1,self employeed,real estate,8,61
+617,4,415,5,1,mother,no other parent in house,no other parent in household,1:Yes,4:Graduated high school,2:No,5:Partial college or trade school,1,front desk clerk at motel,front desk clerk,5,1,works at plant,unknown,3,37
+620,4,411,3,1,mother,none,none,1:Yes,5:Partial college or trade school,2:No,,1,clerical,support clerk,5,,,,,40
+905,4,469,3,2,mother,father,no others live in the house,1:Yes,7:Post graduate degree,1:Yes,5:Partial college or trade school,1,Owns a landscaping business,Business and Finances for business,7,1,Server in a hotel and partials owns landscaping business,server,2,56
+277,4,428,3,2,Mother,Father,None,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Inside Sales Representative,Sales Representative,6,1,Audio-Visual Director,Director,7,49
+850,4,406,4,2,Mother,Father,no other adults live in the home,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,2,,,0,1,Funeral Director,Funderal Director,7,56
+211,4,410,4,2,mother,father,grandmother,1:Yes,3:Partial high school,2:No,4:Graduated high school,2,,,0,2,,,0,9
+214,4,411,2,1,mother,none,none,1:Yes,5:Partial college or trade school,2:No,,2,,,0,,,,,15
+273,4,525,6,2,mother,father,"no other adults, 3 additional siblings",1:Yes,3:Partial high school,1:Yes,4:Graduated high school,1,unemployed,on assistance,1,1,moving furniture,mover,2,18
+139,4,400,3,2,MOTHER,STEPFATHER,,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,CORRECTIONS OFFICER,CORRECTIONS OFFICER,2,25
+796,4,436,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,2,,,0,1,computer specialist,IT technician,8,61
+304,4,443,6,2,mother,father,None,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,oil field,drilling in oil fields,3,27
+811,4,417,4,3,mother,none,grandma & grandpa,1:Yes,4:Graduated high school,2:No,,1,works at movie theatre,cleark-snackbar,2,,,,,22
+723,4,414,4,2,mother,father,no other adults as noted previously (there is a sister),1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,Air Force - enlisted,photographer,6,45
+525,4,453,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,teacher,teacher-elementary,7,1,commercial lendering,commerical lender,7,54.5
+701,4,451,3,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,"real estate, financial planning",real estate agent,7,50
+353,4,644,6,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,2,,,0,1,software company technician,operations engineer,6,42
+595,4,459,5,3,mother,father,aunt,1:Yes,1:Elementary school,1:Yes,1:Elementary school,2,,,0,1,sells food from his truck,lunch truck driver,2,13
+773,4,427,3,2,mother,father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,coordinates repairs + maintenance for apartment complex,Apartment manager,3,1,Helps father in law's at accounting firm with paperwork,Accountant Assistant,5,35
+370,4,430,11,4,mother,father,2 adults (father's cousins),1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,monitors psychiatric patients,psychiatric technician,3,30
+46,4,394,5,2,Mother,Father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,Repairs + builds airplanes,Aerospace Technician,4,35
+77,4,407,4,2,mother,father,none,1:Yes,3:Partial high school,1:Yes,5:Partial college or trade school,2,,,0,1,working in assisted living facility,Nursing assistant,3,30
+756,4,428,6,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,self-employeed,graphic designer,7,53
+496,4,454,7,4,Mother,Father,grandmother / uncle,1:Yes,2:Junior high school,1:Yes,5:Partial college or trade school,1,clinical nursing assistant,CNA,5,1,customer service,customer service rep,5,35.5
+766,4,397,5,4,mother,father,"maternal grandmother, maternal grandfather",1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,changes horse shoes,black smith,3,27
+659,4,415,7,3,mother,father,grandmother,1:Yes,1:Elementary school,1:Yes,1:Elementary school,2,,,0,1,Builds Homes,Construction Worker,3,18
+660,4,430,4,2,mother,father,none,1:Yes,3:Partial high school,1:Yes,2:Junior high school,2,,,0,2,,,0,7.5
+614,4,409,12,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,Dept of Power & Water,Electrical Craft Helper,4,32
+726,4,423,4,2,mom,dad,none,1:Yes,1:Elementary school,2:No,2:Junior high school,2,,,0,1,builds homes,construction worker,4,26
+749,4,397,4,1,mother,none,none,1:Yes,5:Partial college or trade school,2:No,,2,,,0,,,,,15
+509,4,420,4,2,mom,dad,none,1:Yes,1:Elementary school,1:Yes,1:Elementary school,2,,,0,1,Operates a printing press,print operator,3,18
+7,4,420,4,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,repairs motorcycles,mechanic,4,38
+186,4,421,3,2,mom,dad,None,1:Yes,3:Partial high school,1:Yes,3:Partial high school,2,,,0,1,Stocking / organizing shipments,Warehouse worker,2,19
+633,4,431,3,2,mom,dad,None.,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Self-employed book illustrator,Designer,7,1,Develops video games,Technical artist,7,51.5
+751,4,447,3,1,mother,none,none,1:Yes,5:Partial college or trade school,2:No,,2,,,0,,,,,15
+406,4,445,5,4,Mother,Father,"Maternal grandmother, grandfather",1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,2,,,0,1,Dept. of corrections employee,Corrections officer,3,27
+415,4,483,5,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,Hewitt,customer service associate,5,1,a cable provider corporation,Subcontractor- cable installer,4,37.5
+802,4,415,3,2,mother,father,None,1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,Auditor,Senior Auditor,8,2,,,0,58
+720,4,436,9,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,"unemployed, receiving public assistance for child",unemployed,1,1,Driver-ambulance service,truck driver,3,25
+165,4,424,4,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,"at home, mother","unemployed, public assistance",1,1,shipping/ receiving in household cleaning supplies company,warehouse supervisor,4,24.5
+570,4,408,5,2,Mother,Father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,Accountant,Accountant,8,1,Server - Waiter,Server,2,55
+383,4,398,3,2,mother,father,none,1:Yes,3:Partial high school,1:Yes,3:Partial high school,1,retail,sales associate,5,1,Building Yachts,Fabricator,3,29
+826,4,403,5,2,mother,father,None,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,unemployed/public assistance,"unemployed, public assistance",1,1,machine operator,machine operator,3,22
+577,4,412,5,2,mother,father,None,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,Transport - ***,Manager,7,47
+745,4,418,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,Clerical,Sales associate,5,1,underwriter,manager,7,49.5
+754,4,427,4,1,mother,,None,1:Yes,4:Graduated high school,2:No,,1,unemployed,unemployed,1,,,,,17
+680,4,400,3,2,mother,father,None,1:Yes,6:College graduate,1:Yes,6:College graduate,1,system analyst,system analyst,8,1,sales representative,sales representative,5,50.5
+456,4,400,6,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,NMG,service tech semi-skilled,3,30
+36,4,428,5,3,mother,father,grandmother,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,LPN,LPN,6,1,Filler-National Automotive Sprinkler,Sprinkler/filler,4,38.5
+611,4,416,4,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,machine operator,machine operator,3,1,machine operator,machine operator,3,30
+149,4,397,4,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,"ACCOUNTANT, PROJECT ACCOUNTANT",Project Accountant,8,1,Manager,Manager Convenience Store,7,54
+382,4,447,4,2,Mother,Father,None,1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,Information Systems,Senior Network Manager,8,2,,,0,58
+115,4,454,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,manager of biomedical company,production manager,8,58
+873,4,412,3,2,Mother,Father,None,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,Special education,Theacher - Special education elementary,7,1,Teacher - secondary education,Teacher,8,57
+851,4,432,3,1,mother,none,none,1:Yes,5:Partial college or trade school,2:No,,1,pampered chef,consultant,1,,,,,20
+663,4,417,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,contractor - communication,communications contractor,7,1,sales,sales associate,6,52
+913,4,423,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,nursing-home care,registered nurse,8,58
+895,4,442,4,3,mother,father,grandmother,1:Yes,3:Partial high school,1:Yes,3:Partial high school,1,none,none,1,1,drywall - construction,drywall - construction,3,19
+171,4,414,5,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,3:Partial high school,1,Homemaker; unemployed on public assistance,public assistance,1,1,makes shoes,shoe stitcher,4,24.5
+114,4,433,4,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,1,homemaker,unemployed,1,1,custodian,custodian in school system,3,23.5
+32,4,421,3,2,mother,father,none,1:Yes,3:Partial high school,1:Yes,4:Graduated high school,1,unemployed,homemaker,1,1,shipping/receiving,stocking,2,18
+834,4,423,5,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,unemployed,unemployed (packaging papermill),1,1,unemployed,"unemployed (operator, papermill)",1,17
+267,4,439,3,2,Mother,Father,NONE,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,1,Administrative Assistant,Human Resources Assistant,5,1,driver,Carrier - Package delivery company,3,36.5
+342,4,431,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,health insurance,health insurance,7,1,manager bar/grill,manager,7,51.5
+894,4,423,5,2,mother,father,none,1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,ASPIRO,service coordinator,7,1,fork lift driver,loader/reciever,3,53
+438,4,413,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,4:Graduated high school,1,Teacher,elementary education teacher,7,1,printer,printer,3,56
+501,4,433,4,1,mother,none,none,1:Yes,3:Partial high school,2:No,,1,unemployed,none,1,,,,,14
+503,4,452,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,2:Junior high school,1,administrative assistant,project coordinator assistant,5,1,sales representative,sales representative,6,39.5
+728,4,435,3,2,Mother,Father,NONE,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,currently unemployed,previously certified nursing assistant,1,1,window factory,assembler,3,23.5
+552,4,449,4,2,mother,father,NONE,1:Yes,2:Junior high school,1:Yes,4:Graduated high school,1,unemployed,homemaker,1,1,landscaping,laborer,2,16.5
+629,4,406,5,2,Mother,Father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,Student/Homemaker,Homemaker,1,1,Student/Painter,Painter,3,25
+710,4,457,3,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,medication technician,medication technician,6,1,cable technician,cable technician,3,36
+301,4,420,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,engineer-pacemaker development,engineer,9,1,real estate/commercial property attorney,attorney,9,64.5
+776,4,439,4,2,Mother,Father,None,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,"Homemaker, full time student","Homemaker, student",1,1,Construction,Cable installer,3,22
+642,4,452,5,2,Mother,Father,None,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Homemaker,Homemaker,1,1,Machine operator,Machine operator,4,29
+288,4,435,3,2,Mother,Father,None,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,Connecting Cultures; Interpreter Somalian,Administrative Assistant,6,1,Sales,Sales-product,6,43.5
+872,4,407,5,2,Mother,Father,None,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,Homemaker,Homemaker,1,1,Window Company,Manager,6,45
+715,4,475,4,2,mom,dad,None,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,works for *** home medical,sales rep,5,1,musician,bass player/teacher,7,43.5
+169,4,692,2,1,mom,dad,none-dad lives elsewhere-pts. divorced,1:Yes,5:Partial college or trade school,2:No,5:Partial college or trade school,2,,,0,1,computer arch. design,computer tech,8,55
+864,4,435,4,3,mom,dad,grandmother,1:Yes,5:Partial college or trade school,1:Yes,3:Partial high school,2,,,0,1,umemployed no assistance-unskilled labor,unskilled labor,2,19
+709,4,427,4,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,2,,,0,1,installs satellites,satellite technician,3,27
+250,4,421,8,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,supervisor of waste water plant,supervisor,6,48
+424,4,426,3,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,industrial engineer,material flow coordinator,8,1,inventory control,data coordinator,8,58
+322,4,427,4,3,mom,dad,grandmother who lives in home during week and goes home on w/e.,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,manages bank,branch manager,6,1,works for delivery co. ***,residential delivery,3,34.5
+429,4,420,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,self employed business owner,president of leasing CO,7,1,self employment,president - aquatic management,7,53
+14,4,419,6,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,software engineer,senior software engineer,8,58
+147,4,454,6,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,2,,,0,1,sales rep,sales account executive,6,45
+738,4,449,5,2,mom,dad,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,1,Emergency Dept. Registration Clerk,"Patient Services, Representative",4,1,Army reservist and full time student,Specialist,0,32
+890,4,417,3,2,mom,dad,none,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,2,,,0,1,design engineer,mechanical design engineer,9,63
+768,4,434,4,2,mom,dad,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,teach,professor,9,1,teach,professor,9,66
+682,4,409,7,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,4:Graduated high school,1,private guardianship,guardian,3,1,farming,owner/operator,6,37.5
+37,4,431,4,2,mom,dad,none,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,janitorial,general laborer,3,30
+485,4,427,5,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,tech trainer for auto industry,technical trainer,6,45
+686,4,594,3,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,sales rep,sales rep,6,48
+695,4,501,5,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,3:Partial high school,2,,,0,1,employed at a fast food chain restaurant,general manager,5,34
+134,4,430,4,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,run achildrens non profit,president of expedition your town,6,2,,,0,48
+321,4,455,4,2,mom,none,adult friend,1:Yes,4:Graduated high school,2:No,,2,,,0,,no contact with child's father,no contact with child's father,,12
+679,4,461,4,2,mom,dad,adult brother,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,farm manager,farm manager,4,38
+435,4,441,3,1,mom,none,none,1:Yes,5:Partial college or trade school,2:No,,1,waitress,server,2,,na,,,25
+400,4,424,5,2,mom,dad,none,1:Yes,4:Graduated high school,1:Yes,3:Partial high school,1,sales,photo associate,5,1,construction,manual labor,4,33
+306,4,422,3,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,works at grocery store-cashier,cashier,5,2,,,0,40
+668,4,423,3,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,unemployment insurance consultant,unemployment insurance consultant,6,2,,,0,45
+287,4,445,5,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,maintainence supervisor,maintainence supervisor,6,45
+464,4,451,5,2,aunt,uncle,none,2:No,3:Partial high school,2:No,3:Partial high school,2,,,0,1,grocery store worker,produce,2,
+452,4,427,4,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,7:Post graduate degree,2,,,0,1,technical medical staff,senior tech. consultant,8,61
+174,4,704,6,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,govt. employee,mainteniance,4,35
+26,4,421,3,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,skill trade,automotive tech.,4,38
+229,4,436,4,2,mom,dad,none,1:Yes,7:Post graduate degree,1:Yes,5:Partial college or trade school,1,labor attorney,labor relations rep.,9,1,chef,chef-resturant,7,58
+815,4,428,7,2,foster mom,foster dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,lumber grader,lumber grader,4,
+828,4,454,3,2,mom,dad,no others,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,nurse,rn,8,1,"truck and heavy machinery operator, scrap metal",heavy machine operator,3,58
+153,4,445,4,2,mother,father,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,director,director of seminar institute-Indian gaming,8,1,law enforcement,police officer,6,56
+882,4,445,5,2,mother,father,"adult sister, adult cousin",1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,supervisor at *** county CPS,supervisor,7,1,automotive,supervisor-automaker,7,54.5
+553,4,465,3,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,machining,specialist,3,30
+832,4,405,4,2,mom,dad,no,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,sales,sales trainer,5,43
+810,4,442,5,2,mom,dad,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,teacher,public school teacher,7,1,teacher,public school teacher,7,56
+904,4,438,5,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,nurse,rn,8,1,computer support,computer analyst,8,59.5
+271,4,570,3,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,compliance regulatory,compliance officer,8,1,mail delivery,rural carrier,4,58
+391,4,434,5,3,mom,dad,adult aunt,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,"media research- field supervisor, data analyst",field supervisor,6,48
+787,4,434,3,2,mom,dad,none,1:Yes,7:Post graduate degree,1:Yes,7:Post graduate degree,1,teacher,3rd grade teacher,7,1,technology,director of technology,7,56
+418,4,437,4,2,mom,dad,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,registered medical assistant,draws blood,3,1,terminal manager,crane operator,3,31.5
+687,4,428,4,2,mom,dad,adult sister,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,farm,farmer,7,50
+869,4,388,3,2,mom,dad,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,US air force,military,4,35
+109,4,456,3,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,sales representative,sales representative,6,1,maintenance,Maintenance Engineer,6,45
+38,4,407,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,Nurse,RN,8,1,Owns Company,Owner,7,55.5
+844,4,429,5,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,disability,disability,1,2,,,0,17
+95,4,459,4,1,mother,,not applicable,1:Yes,6:College graduate,2:No,,1,letter carrier - post office,letter carrier,4,,,,,38
+572,4,436,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,store manager,manager,7,1,sales associate,sales associate,6,49
+618,4,466,4,2,mother,father,,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,Warehouse,supervisor,5,37
+329,4,444,4,3,mother,grandmother,grandfather,1:Yes,5:Partial college or trade school,2:No,2:Junior high school,2,,,0,2,,,0,15
+689,4,450,3,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,3:Partial high school,1,outside salesperson,outside sales,5,1,press operator - Factory,press operator,3,30.5
+495,4,436,3,2,mother,grandmother,none,1:Yes,5:Partial college or trade school,2:No,3:Partial high school,1,medical assistant,medical assistant,3,2,,,0,30
+645,4,450,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,1,research scientist with food,research scientist,6,1,water sampling,Environmental technician,6,48
+156,4,437,4,2,mother,father,None.,1:Yes,6:College graduate,1:Yes,7:Post graduate degree,1,Unemployed (nurse),Registered nurse,8,1,Physician,MD,9,62
+404,4,443,3,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,Airmark,New Business Manager,7,53
+231,4,422,4,2,Mother,father,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,flight attendent,flight attendant (on voluntary leave),6,1,Builder (home),Supervisor,8,51.5
+143,4,497,6,2,mother,father,,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,general manager,general manager,7,53
+279,4,491,4,3,mother,,patients grandparents,1:Yes,5:Partial college or trade school,2:No,,1,student (college),student (college),5,,,,,40
+650,4,456,4,2,mother,father,,1:Yes,7:Post graduate degree,1:Yes,6:College graduate,1,pharmacist,pharmacist,8,1,builder,builder,7,57
+813,4,475,5,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,7:Post graduate degree,2,,,0,1,physician,anesthesiologist,9,66
+145,4,465,4,3,Mother,Father,Aunt,1:Yes,1:Elementary school,1:Yes,1:Elementary school,2,,,0,1,insulation installation,laborer,2,13
+670,4,473,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,teacher,teacher,7,1,machinist,machinist,6,49
+477,4,454,2,1,mother,,none,1:Yes,5:Partial college or trade school,2:No,,2,,,0,,,,,15
+676,4,465,3,1,mother,,none,1:Yes,4:Graduated high school,2:No,,1,unknown,unknown,,1,contruction,construction,2,12
+412,4,407,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,registered nurse,registered nurse,8,1,weapons instructor,weapons instructor,7,54
+225,4,428,5,3,mother,father,uncle (father's brother),1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,roofing,roofer,3,27
+312,4,469,7,2,Mother,Father,NONE,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,2,,,0,1,Receiving Manager at company,Receiving Manager,4,32
+711,4,413,6,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,2,,,0,1,"roofing, construction, and landscaping","roofer, construction worker, and landscaper",3,27
+104,4,414,5,3,Mother,Father,Aunt,1:Yes,3:Partial high school,1:Yes,1:Elementary school,1,unemployed,unemployed,1,1,self-contractor,self-contractor,1,11
+207,4,416,9,2,,,2 ADULT SISTERS,2:No,,2:No,,,,,,,,,,
+84,4,458,3,2,MOTHER,FATHER,NA,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,COMPUTER TECHNOLOGY,VP OF SOFTWARE ENGINEERING,9,63
+12,4,456,5,2,MOTHER,FATHER,NONE,1:Yes,4:Graduated high school,1:Yes,5:Partial college or trade school,2,,,0,1,CONSTRUCTION,CONSTRUCTION,3,30
+159,4,452,6,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,FINANCIAL,ACCOUNTANT,8,58
+918,4,403,7,5,mother,father,"2 grandmothers, uncle",1:Yes,5:Partial college or trade school,1:Yes,4:Graduated high school,1,FACTORY,PACKAGING,3,1,FACTORY,LEAD OPERATOR,4,31
+222,4,411,5,2,mom,dad,none,1:Yes,7:Post graduate degree,1:Yes,5:Partial college or trade school,1,Lawyer,attorney,9,1,U.S Geological Survey,Hydrolics technican,6,55.5
+597,4,402,3,2,mother,fahter,none,1:Yes,3:Partial high school,1:Yes,4:Graduated high school,2,,,0,1,Delivery truck driver,Delivery truck driver for ***,3,27
+582,4,472,3,2,mother,father,None,1:Yes,2:Junior high school,1:Yes,3:Partial high school,2,,,0,1,Manager of *** Market,Manager,7,44
+736,4,449,4,2,mother,,grandmother,1:Yes,3:Partial high school,2:No,3:Partial high school,2,,,0,,not live in home,not live in home,,9
+547,4,460,3,2,mother,father,None,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Instructor at art school,Teacher,8,1,Machine operator,machinist,3,58
+157,4,493,7,3,MOTHER,GRANDMOTHER,GRANDFATHER,1:Yes,5:Partial college or trade school,2:No,5:Partial college or trade school,1,FINANCIAL COUNSELOR,FINANCIAL COUNSELOR,5,,UNKNOWN,UNKNOWN,,40
+785,4,430,3,1,Mother,,none,1:Yes,5:Partial college or trade school,2:No,3:Partial high school,1,CLERICAL,INFORMATION CLERK,5,,not live in home
+,not live in home,,40
+920,4,484,8,2,mother,father,NONE,1:Yes,2:Junior high school,2:No,,2,,,0,,NOT KNOWN BY MOTHER,NOT KNOWN BY MOTHER,,6
+430,4,457,4,2,MOTHER,FATHER,NONE,1:Yes,6:College graduate,1:Yes,6:College graduate,1,UNEMPLOYED SCHOOL TEACHER,SCHOOL TEACHER,1,1,SCHOOL TEACHER,SCIENCE TEACHER,8,58
+450,4,442,3,1,MOTHER,,NONE,1:Yes,3:Partial high school,2:No,,1,UNEMPLOYED,UNEMPLOYED,1,,UNKNOWN,UNKNOWN,,14
+417,4,422,4,2,MOTHER,FATHER,NO OTHER ADULTS LIVING IN HOME,1:Yes,5:Partial college or trade school,1:Yes,6:College graduate,2,,,0,1,US AIR FORCE,NETWORK TECHMICIAN,4,38
+555,4,450,4,2,mother,father,none,1:Yes,6:College graduate,1:Yes,6:College graduate,2,,,0,1,Painting,Auto Body Repairman,3,33
+40,4,441,5,2,mother,father,none,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,1,Marketing,Director of Marketing,6,1,Advertising,Manager,6,45
+719,4,448,5,2,mother,father,none,1:Yes,3:Partial high school,1:Yes,4:Graduated high school,1,Janitorial,Janitor,1,1,Truck Loader,Loader,2,18
+757,4,451,3,2,mother,father,None,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Teacher,Teacher,8,1,Sales,Independent Contractor,7,54
+820,4,402,3,2,MOTHER,FATHER,NON,1:Yes,5:Partial college or trade school,1:Yes,5:Partial college or trade school,2,,,0,1,AIR FORCE,E5,4,35
+63,4,441,5,4,mother,father,"grandmother, aunt",1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,1,fast food,cashier,2,1,fast food,none,2,22
+475,4,416,5,3,maternal grandmother,step grandfather,uncle,2:No,5:Partial college or trade school,2:No,5:Partial college or trade school,1,social worker,"case manager, senior social worker",7,1,machinist,machinist,4,
+758,4,432,3,2,mother,father,NONE,1:Yes,6:College graduate,1:Yes,5:Partial college or trade school,1,Teacher,High School English Teacher,8,1,Package delivery company Supervisor,Package delivery company Hub Supervisor,6,51.5
+397,4,451,4,2,mother,father,,1:Yes,6:College graduate,1:Yes,6:College graduate,1,teacher,teacher,7,1,manager of lumber yard,manager,6,50.5
+106,4,429,4,2,mother,father,none,1:Yes,4:Graduated high school,1:Yes,4:Graduated high school,2,,,0,1,cement mason,mason foreman,6,42

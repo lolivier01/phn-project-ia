@@ -1,0 +1,18 @@
+# Fichier listant les dépendances Python du projet
+
+# Core data manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+shap
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Pour les notebooks (optionnel mais recommandé)
+jupyter
+ipykernel
